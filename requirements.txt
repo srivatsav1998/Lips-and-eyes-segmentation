@@ -3,3 +3,4 @@ tensorflow==2.8.0
 matplotlib==3.5.1
 opencv_python==4.5.5.64
 tqdm==4.64.0
+awscli==1.22.101
